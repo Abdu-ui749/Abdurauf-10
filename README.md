@@ -49,3 +49,4 @@ export default tseslint.config({
 })
 ```
 "# Abdurauf-10" 
+"# Abdurauf-10" 
